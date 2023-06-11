@@ -1,6 +1,6 @@
 # Just-knowledge
 It's just random things you must know (written-post-copy-paste)
-> 1. [ChatGPT is free education]()
+> 1. [ChatGPT is free education](https://github.com/Poseidon-SV/Just-knowledge/blob/main/README.md#chatgpt-is-free-education)
 
 ## ChatGPT is free education.
 
